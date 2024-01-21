@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:  
+        
+  structurizr_lite:
+      image: structurizr/lite
+      container_name: structurizr_lite
+      restart: always
+      ports:
+      - "8080:8080" 
+      volumes:
+            - ./alex_example:/usr/local/structurizr
+              
+  structurizr_premises:
+      image: structurizr/onpremises
+      container_name: structurizr_premises
+      restart: always
+      ports:
+          - "8090:8080"
+      network_mode: bridge      
+      volumes:
+          - ./dsl_premis_vol:/usr/local/structurizr
+          
+  structurizr_cli:
+      image: structurizr/cli
+      container_name: structurizr_cli
+      command: push -url http://172.17.0.2:8080/api -id 3 -key 9d2a3221-1da5-466c-9d7a-d89c16fa79ea -secret b39f972b-805c-47bc-924f-5e1d50c4582f -workspace workspace.dsl
+      network_mode: bridge
+      volumes:
+        - ./alex_example:/usr/local/structurizr
+
