@@ -1,11 +1,10 @@
 {
   "id" : 1,
-  "name" : "Name",
-  "description" : "Description",
-  "lastModifiedDate" : "2024-01-21T17:04:33Z",
-  "lastModifiedAgent" : "structurizr-javascript",
+  "name" : "Alex Bank API with docs and adr",
+  "description" : "This is an example workspace to illustrate the key features of Structurizr, via the DSL, based around a fictional online banking system.",
+  "lastModifiedDate" : "2024-01-22T15:53:16Z",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICAjc29mdHdhcmVTeXN0ZW0gPG5hbWU+IFtkZXNjcmlwdGlvbl0gW3RhZ3NdCiAgICAjY29udGFpbmVyIDxuYW1lPiBbZGVzY3JpcHRpb25dIFt0ZWNobm9sb2d5XSBbdGFnc10KCiAgICAhZG9jcyBkb2NzCiAgICAhYWRycyBhZHJzCgogICAgbW9kZWwgewoKICAgICAgICBwcm9wZXJ0aWVzIHsKICAgICAgICAgICAgInN0cnVjdHVyaXpyLmdyb3VwU2VwYXJhdG9yIiAiLyIKICAgICAgICB9CgogICAgICAgICMg0JLQvdC10YjQvdC40LUg0YHQuNGB0YLQtdC80Ysg0Lgg0YHQtdGA0LLQuNGB0YsKICAgICAgICBiaWdCYW5rID0gc29mdHdhcmVTeXN0ZW0gIkJpZyBiYW5rIEFQSSIgItCf0LvQsNGC0LXQttC90YvQuSDRgdC10YDQstC40YEgQmlnQmFuayIgIkV4dGVybmFsIFN5c3RlbSIKICAgICAgICBzbWFsbEJhbmsgPSBzb2Z0d2FyZVN5c3RlbSAiU21hbGwgYmFuayBBUEkiICLQn9C70LDRgtC10LbQvdGL0Lkg0YHQtdGA0LLQuNGBIFNtYWxsQmFuayIgIkV4dGVybmFsIFN5c3RlbSIKCiAgICAgICAgdXNlciA9IHBlcnNvbiAi0J/QvtC60YPQv9Cw0YLQtdC70YwiCgogICAgICAgIGdyb3VwICLQnNC10LbQtNGDINGB0LrQvtCx0L7QuiIgewogICAgICAgICAgICBrYWZrYSA9IHNvZnR3YXJlU3lzdGVtICJLYWZrYSIgIk1lc3NhZ2UgYnJva2VyIiAiSW5mcmFzdHJ1Y3R1cmUsS2Fma2EiCiAgICAgICAgICAgICNwcm9tZXRldXMgPSBzb2Z0d2FyZVN5c3RlbSAicHJvbWV0ZXVzIiAiUHJvbWV0ZXVzIiAiSW5mcmFzdHJ1Y3R1cmUiCiAgICAgICAgICAgIAogICAgICAgICAgICB3ZWJTaXRlID0gc29mdHdhcmVTeXN0ZW0gIldlYi3RgdCw0LnRgiIgIiIgIkludGVybmFsIFN5c3RlbSIKCiAgICAgICAgICAgIGdhdGV3YXlTZXJ2aWNlID0gc29mdHdhcmVTeXN0ZW0gIkFQSS3Qs9C10LnRgtCy0LXQuSIgIkFQSS3Qs9C10LnRgtCy0LXQuSDQtNC70Y8g0YHQsNC50YLQsCIgewogICAgICAgICAgICAgICAgZ2F0ZXdheUFwcCA9IGNvbnRhaW5lciAiQVBJLdCz0LXQudGC0LLQtdC5IEJhY2tlbmQiICIiICJTcHJpbmcgV2ViRmx1eCIKICAgICAgICAgICAgICAgIGdhdGV3YXlDYWNoZSA9IGNvbnRhaW5lciAi0JrRjdGIIiAiIiAiUmVkaXMiICJDYWNoZSIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgY3VzdG9tZXJTZXJ2aWNlID0gc29mdHdhcmVTeXN0ZW0gItCh0LXRgNCy0LjRgSDQutC70LjQtdC90YLQvtCyIiAi0KHQtdGA0LLQuNGBINC00LvRjyDRg9C/0YDQsNCy0LvQtdC90LjRjyDQutC70LjQtdC90YLQsNC80LgiIHsKICAgICAgICAgICAgICAgIGN1c3RvbWVyQXBwID0gY29udGFpbmVyICJCYWNrZW5kINGB0LXRgNCy0LjRgdCwINC60LvQuNC10L3RgtC+0LIiICIiICJTcHJpbmcgV2ViIE1WQyIKICAgICAgICAgICAgICAgIGN1c3RvbWVyREIgPSBjb250YWluZXIgItCR0LDQt9CwINC00LDQvdC90YvRhSIgIiIgIlBvc3RncmVTUUwiICJEYXRhYmFzZSIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgCgogICAgICAgICAgICAjIGdyb3VwICJQYXltZW50QXBwIiB7CiAgICAgICAgICAgICAgICBwYXlHYXRld2F5U2VydmljZSA9IHNvZnR3YXJlU3lzdGVtICLQodC10YDQstC40YEg0L/Qu9Cw0YLQtdC20LXQuSIgItCh0LXRgNCy0LjRgSDQtNC70Y8g0L/RgNC+0LLQtdC00LXQvdC40Y8g0L7Qv9C70LDRgiDRh9C10YDQtdC3INCy0L3QtdGI0L3QuNGFINC/0YDQvtCy0LDQudC00LXRgNC+0LIiIHsKICAgICAgICAgICAgICAgICAgICBwYXlHYXRld2F5QXBwID0gY29udGFpbmVyICJCYWNrZW5kINGB0LXRgNCy0LjRgdCwINC/0LvQsNGC0LXQttC10LkiICIiICJTcHJpbmcgV2ViIE1WQyIKICAgICAgICAgICAgICAgICAgICBwYXlHYXRld2F5REIgPSBjb250YWluZXIgItCR0LDQt9CwINC00LDQvdC90YvRhSIgIiIgIlBvc3RncmVTUUwiICJEYXRhYmFzZSIKICAgICAgICAgICAgICAgICAgICBwYXlHYXRld2F5U2NoZWR1bGVyQXBwID0gY29udGFpbmVyICLQn9C70LDQvdC40YDQvtCy0YnQuNC6INGB0LXRgNCy0LjRgdCwINC/0LvQsNGC0LXQttC10LkiICIiICJTcHJpbmcgUXVhcnR6IgoKICAgICAgICAgICAgICAgICAgICBwYXlCaWdCYW5rQXBwID0gY29udGFpbmVyICJCYWNrZW5kINC60L7QvdC90LXQutGC0L7RgNCwINC6IEJpZ0JhbmsiICIiICJTcHJpbmcgV2ViIE1WQyIKICAgICAgICAgICAgICAgICAgICBwYXlTbWFsbEJhbmtBcHAgPSBjb250YWluZXIgIkJhY2tlbmQg0LrQvtC90L3QtdC60YLQvtGA0LAg0LogU21hbGwgQmFuayIgIiIgIlNwcmluZyBXZWIgTVZDIgogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICMgcGF5QmlnQmFua1NlcnZpY2UgPSBzb2Z0d2FyZVN5c3RlbSAi0JrQvtC90L3QtdC60YLQvtGAINC6IEJpZyBCYW5rIiAi0JrQvtC90L3QtdC60YLQvtGAINC6INC/0LvQsNGC0LXQttC90L7QvNGDINGB0LXRgNCy0LjRgdGDIEJpZyBCYW5rIiB7CiAgICAgICAgICAgICAgICAjICAgICBwYXlCaWdCYW5rQXBwID0gY29udGFpbmVyICJCYWNrZW5kINC60L7QvdC90LXQutGC0L7RgNCwINC6IEJpZyBCYW5rIiAiIiAiU3ByaW5nIFdlYiBNVkMiCiAgICAgICAgICAgICAgICAjIH0KCiAgICAgICAgICAgICAgICAjIHBheVNtYWxsQmFua1NlcnZpY2UgPSBzb2Z0d2FyZVN5c3RlbSAi0JrQvtC90L3QtdC60YLQvtGAINC6IFNtYWxsIEJhbmsiICLQmtC+0L3QvdC10LrRgtC+0YAg0Log0L/Qu9Cw0YLQtdC20L3QvtC80YMg0YHQtdGA0LLQuNGB0YMgU21hbGwgQmFuayIgewogICAgICAgICAgICAgICAgIyAgICAgcGF5U21hbGxCYW5rQXBwID0gY29udGFpbmVyICJCYWNrZW5kINC60L7QvdC90LXQutGC0L7RgNCwINC6IFNtYWxsIEJhbmsiICIiICJTcHJpbmcgV2ViIE1WQyIKICAgICAgICAgICAgICAgICMgfQogICAgICAgICAgICAjIH0KICAgICAgICB9CgogICAgICAgIHVzZXIgLT4gd2ViU2l0ZSAi0JjRgdC/0L7Qu9GM0LfRg9C10YIiCgogICAgICAgICMjIyBnYXRld2F5U2VydmljZSAjIyMKICAgICAgICBnYXRld2F5QXBwIC0+IHdlYlNpdGUgItCf0L7Qu9GD0YfQsNC10YIg0LfQsNC/0YDQvtGB0Ysg0L7RgiIgIkpTT04vSFRUUCIKICAgICAgICBnYXRld2F5QXBwIC0+IGdhdGV3YXlDYWNoZSAi0JrRjdGI0LjRgNGD0LXRgiDQvtGC0LLQtdGC0Ysg0LIiCgogICAgICAgICMjIyBjdXN0b21lclNlcnZpY2UgIyMjCiAgICAgICAgY3VzdG9tZXJBcHAgLT4gZ2F0ZXdheUFwcCAi0J/QvtC70YPRh9Cw0LXRgiDQt9Cw0L/RgNC+0YHRiyDRh9C10YDQtdC3IiAiSlNPTi9IVFRQIgogICAgICAgIGN1c3RvbWVyQXBwIC0+IGN1c3RvbWVyREIgItCl0YDQsNC90LjRgiDQt9Cw0LrQsNC30Ysg0LIiICJKREJDIgogICAgICAgICPRgtGD0YIg0LXRgdGC0Ywg0L/RgNC+0LHQu9C10LzQsAogICAgICAgIGN1c3RvbWVyQXBwIC0+IGthZmthICLQn9C+0LvRg9GH0LDQtdGCINGB0YLQsNGC0YPRgdGLINC/0LvQsNGC0LXQttC10Lkg0LjQtyIKCiAgICAgICAgIyMjIHBheW1lbnRTZXJ2aWNlICMjIwogICAgICAgIHBheUdhdGV3YXlBcHAgLT4gZ2F0ZXdheUFwcCAi0J/QvtC70YPRh9Cw0LXRgiDQt9Cw0L/RgNC+0YHRiyDQvdCwINC+0L/Qu9Cw0YLRgyDRh9C10YDQtdC3IiAiSlNPTi9IVFRQIgogICAgICAgIHBheUdhdGV3YXlBcHAgLT4gcGF5R2F0ZXdheURCICLQpdGA0LDQvdC40YIg0L/Qu9Cw0YLQtdC20Lgg0LIiICJKREJDIgogICAgICAgIHBheUdhdGV3YXlBcHAgLT4gY3VzdG9tZXJBcHAgItCf0L7Qu9GD0YfQsNC10YIg0LjQvdGE0L7RgNC80LDRhtC40Y4g0L4g0LrQu9C40LXQvdGC0LUg0LjQtyIgIkpTT04vSFRUUCIKICAgICAgICBwYXlHYXRld2F5QXBwIC0+IGthZmthICLQntGC0L/RgNCw0LLQu9GP0LXRgiDRgdGC0LDRgtGD0YHRiyDQv9C70LDRgtC10LbQtdC5INCyIgogICAgICAgIHBheUdhdGV3YXlTY2hlZHVsZXJBcHAgLT4gcGF5R2F0ZXdheURCICLQn9C+0LvRg9GH0LDQtdGCINC30LDQstC40YHRiNC40LUg0L/Qu9Cw0YLQtdC20Lgg0LjQtyIgIkpEQkMiCiAgICAgICAgcGF5R2F0ZXdheVNjaGVkdWxlckFwcCAtPiBwYXlHYXRld2F5QXBwICLQn9C+0LLRgtC+0YDRj9C10YIg0L/Qu9Cw0YLQtdC20Lgg0YfQtdGA0LXQtyIgIkpTT04vSFRUUCIKCiAgICAgICAgcGF5QmlnQmFua0FwcCAtPiBwYXlHYXRld2F5QXBwICLQn9C+0LvRg9GH0LDQtdGCINC30LDQv9GA0L7RgdGLINC40LciICJKU09OL0hUVFAiCiAgICAgICAgcGF5QmlnQmFua0FwcCAtPiBiaWdCYW5rICLQntGC0L/RgNCw0LLQu9GP0LXRgiDQt9Cw0L/RgNC+0YHRiyDQsiIgIkpTT04vSFRUUCIKICAgICAgICBwYXlTbWFsbEJhbmtBcHAgLT4gcGF5R2F0ZXdheUFwcCAi0J/QvtC70YPRh9Cw0LXRgiDQt9Cw0L/RgNC+0YHRiyDQuNC3IiAiSlNPTi9IVFRQIgogICAgICAgIHBheVNtYWxsQmFua0FwcCAtPiBzbWFsbEJhbmsgItCe0YLQv9GA0LDQstC70Y/QtdGCINC30LDQv9GA0L7RgdGLINCyIiAiSlNPTi9IVFRQIgogICAgfQoKICAgICNzeXN0ZW1Db250ZXh0IDxzb2Z0d2FyZSBzeXN0ZW0gaWRlbnRpZmllcj4gW2tleV0gW2Rlc2NyaXB0aW9uXQogICAgdmlld3MgewogICAgICAgIHN5c3RlbUxhbmRzY2FwZSAiU3lzdGVtTGFuZHNjYXBlIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICAjYXV0b0xheW91dCBidAoKICAgICAgICAgICAgIyFzY3JpcHQgZ3Jvb3Z5IHsKICAgICAgICAgICAgIyAgICB3b3Jrc3BhY2UubW9kZWwuc29mdHdhcmVTeXN0ZW1zLmZpbmRBbGwgeyBpdC5ncm91cCA9PSAiR3JvdXAgMSIgJiYgaXQuaGFzVGFnKCJUYWcgMSIpIH0uZWFjaHsgdmlldy5hZGQoaXQpOyB9OwogICAgICAgICAgICAjfQogICAgICAgIH0KCiAgICAgICAgIyMjIGdhdGV3YXlTZXJ2aWNlICMjIwogICAgICAgIHN5c3RlbUNvbnRleHQgZ2F0ZXdheVNlcnZpY2UgImdhdGV3YXlTZXJ2aWNlQ29udGV4dCIgIkdhdGV3YXkgU2VydmljZSBDb250ZXh0IERpYWdyYW0iIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGV4Y2x1ZGUgKi0+KgogICAgICAgICAgICBpbmNsdWRlICotPmdhdGV3YXlTZXJ2aWNlCiAgICAgICAgICAgIGluY2x1ZGUgZ2F0ZXdheVNlcnZpY2UtPioKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KICAgICAgICBjb250YWluZXIgZ2F0ZXdheVNlcnZpY2UgImdhdGV3YXlTZXJ2aWNlQ29udGFpbmVycyIgIkdhdGV3YXkgU2VydmljZSBDb250YWluZXJzIERpYWdyYW0iIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGV4Y2x1ZGUgImVsZW1lbnQudHlwZT09c29mdHdhcmVTeXN0ZW0tPmVsZW1lbnQudHlwZT09c29mdHdhcmVTeXN0ZW0iCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgICMjIyBjdXN0b21lclNlcnZpY2UgIyMjCiAgICAgICAgc3lzdGVtQ29udGV4dCBjdXN0b21lclNlcnZpY2UgImN1c3RvbWVyU2VydmljZUNvbnRleHQiICJDdXN0b21lciBTZXJ2aWNlIENvbnRleHQgRGlhZ3JhbSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgZXhjbHVkZSAqLT4qCiAgICAgICAgICAgIGluY2x1ZGUgKi0+Y3VzdG9tZXJTZXJ2aWNlCiAgICAgICAgICAgIGluY2x1ZGUgY3VzdG9tZXJTZXJ2aWNlLT4qCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CiAgICAgICAgY29udGFpbmVyIGN1c3RvbWVyU2VydmljZSAiY3VzdG9tZXJTZXJ2aWNlQ29udGFpbmVycyIgIkN1c3RvbWVyIFNlcnZpY2UgQ29udGFpbmVycyBEaWFncmFtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBleGNsdWRlICJlbGVtZW50LnR5cGU9PXNvZnR3YXJlU3lzdGVtLT5lbGVtZW50LnR5cGU9PXNvZnR3YXJlU3lzdGVtIgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKICAgICAgICAjIyMgcGF5bWVudFNlcnZpY2UgIyMjCiAgICAgICAgc3lzdGVtQ29udGV4dCBwYXlHYXRld2F5U2VydmljZSAicGF5R2F0ZXdheVNlcnZpY2VDb250ZXh0IiAiUGF5bWVudCBTZXJ2aWNlIENvbnRleHQgRGlhZ3JhbSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgZXhjbHVkZSAqLT4qCiAgICAgICAgICAgIGluY2x1ZGUgKi0+cGF5R2F0ZXdheVNlcnZpY2UKICAgICAgICAgICAgaW5jbHVkZSBwYXlHYXRld2F5U2VydmljZS0+KgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQogICAgICAgIGNvbnRhaW5lciBwYXlHYXRld2F5U2VydmljZSAicGF5R2F0ZXdheVNlcnZpY2VDb250YWluZXJzIiAiUGF5bWVudCBTZXJ2aWNlIENvbnRhaW5lcnMgRGlhZ3JhbSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgZXhjbHVkZSAiZWxlbWVudC50eXBlPT1zb2Z0d2FyZVN5c3RlbS0+ZWxlbWVudC50eXBlPT1zb2Z0d2FyZVN5c3RlbSIKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCgogICAgICAgICMgc3lzdGVtQ29udGV4dCBwYXlCaWdCYW5rU2VydmljZSAicGF5QmlnQmFua1NlcnZpY2VDb250ZXh0IiAiUGF5IEJpZ0JhbmsgU2VydmljZSBDb250ZXh0IERpYWdyYW0iIHsKICAgICAgICAjICAgICBpbmNsdWRlICoKICAgICAgICAjICAgICBleGNsdWRlICotPioKICAgICAgICAjICAgICBpbmNsdWRlICotPnBheUJpZ0JhbmtTZXJ2aWNlCiAgICAgICAgIyAgICAgaW5jbHVkZSBwYXlCaWdCYW5rU2VydmljZS0+KgogICAgICAgICMgICAgIGF1dG9MYXlvdXQKICAgICAgICAjIH0KICAgICAgICAjIGNvbnRhaW5lciBwYXlCaWdCYW5rU2VydmljZSAicGF5QmlnQmFua1NlcnZpY2VDb250YWluZXJzIiAiUGF5IEJpZ0JhbmsgU2VydmljZSBDb250YWluZXJzIERpYWdyYW0iIHsKICAgICAgICAjICAgICBpbmNsdWRlICoKICAgICAgICAjICAgICBleGNsdWRlICJlbGVtZW50LnR5cGU9PXNvZnR3YXJlU3lzdGVtLT5lbGVtZW50LnR5cGU9PXNvZnR3YXJlU3lzdGVtIgogICAgICAgICMgICAgIGF1dG9MYXlvdXQKICAgICAgICAjIH0KCiAgICAgICAgIyBzeXN0ZW1Db250ZXh0IHBheVNtYWxsQmFua1NlcnZpY2UgInBheVNtYWxsQmFua1NlcnZpY2VDb250ZXh0IiAiUGF5IFNtYWxsQmFuayBTZXJ2aWNlIENvbnRleHQgRGlhZ3JhbSIgewogICAgICAgICMgICAgIGluY2x1ZGUgKgogICAgICAgICMgICAgIGV4Y2x1ZGUgKi0+KgogICAgICAgICMgICAgIGluY2x1ZGUgKi0+cGF5U21hbGxCYW5rU2VydmljZQogICAgICAgICMgICAgIGluY2x1ZGUgcGF5U21hbGxCYW5rU2VydmljZS0+KgogICAgICAgICMgICAgIGF1dG9MYXlvdXQKICAgICAgICAjIH0KICAgICAgICAjIGNvbnRhaW5lciBwYXlTbWFsbEJhbmtTZXJ2aWNlICJwYXlTbWFsbEJhbmtTZXJ2aWNlQ29udGFpbmVycyIgIlBheSBTbWFsbEJhbmsgU2VydmljZSBDb250YWluZXJzIERpYWdyYW0iIHsKICAgICAgICAjICAgICBpbmNsdWRlICoKICAgICAgICAjICAgICBleGNsdWRlICJlbGVtZW50LnR5cGU9PXNvZnR3YXJlU3lzdGVtLT5lbGVtZW50LnR5cGU9PXNvZnR3YXJlU3lzdGVtIgogICAgICAgICMgICAgIGF1dG9MYXlvdXQKICAgICAgICAjIH0KCgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgICAgICBzdHlsZXMgewogICAgICAgICAgICBlbGVtZW50ICJFbGVtZW50IiB7CiAgICAgICAgICAgICAgICBzaGFwZSBSb3VuZGVkQm94CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiUGVyc29uIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBQZXJzb24KICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJFeHRlcm5hbCBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzk5OTk5OQogICAgICAgICAgICAgICAgY29sb3IgIzAwMDAwMAogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkluZnJhc3RydWN0dXJlIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICAjMWFiYzljCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiSW50ZXJuYWwgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM2NjAwY2MKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJTb2Z0d2FyZSBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzExNjhiZAogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkNvbnRhaW5lciIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjNDM4ZGQ1CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQ29tcG9uZW50IiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM4NWJiZjAKICAgICAgICAgICAgICAgIGNvbG9yICMwMDAwMDAKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJEYXRhYmFzZSIgewogICAgICAgICAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJLYWZrYSIgewogICAgICAgICAgICAgICAgc2hhcGUgUGlwZQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9Cg=="
+    "structurizr.dsl" : "d29ya3NwYWNlICJBbGV4IEJhbmsgQVBJIHdpdGggZG9jcyBhbmQgYWRyIiAiVGhpcyBpcyBhbiBleGFtcGxlIHdvcmtzcGFjZSB0byBpbGx1c3RyYXRlIHRoZSBrZXkgZmVhdHVyZXMgb2YgU3RydWN0dXJpenIsIHZpYSB0aGUgRFNMLCBiYXNlZCBhcm91bmQgYSBmaWN0aW9uYWwgb25saW5lIGJhbmtpbmcgc3lzdGVtLiIgewoKICAgICNzb2Z0d2FyZVN5c3RlbSA8bmFtZT4gW2Rlc2NyaXB0aW9uXSBbdGFnc10KICAgICNjb250YWluZXIgPG5hbWU+IFtkZXNjcmlwdGlvbl0gW3RlY2hub2xvZ3ldIFt0YWdzXQoKICAgICFkb2NzIGRvY3MKICAgICFhZHJzIGFkcnMKCiAgICBtb2RlbCB7CgogICAgICAgIHByb3BlcnRpZXMgewogICAgICAgICAgICAic3RydWN0dXJpenIuZ3JvdXBTZXBhcmF0b3IiICIvIgogICAgICAgIH0KCiAgICAgICAgIyDQktC90LXRiNC90LjQtSDRgdC40YHRgtC10LzRiyDQuCDRgdC10YDQstC40YHRiwogICAgICAgIGJpZ0JhbmsgPSBzb2Z0d2FyZVN5c3RlbSAiQmlnIGJhbmsgQVBJIiAi0J/Qu9Cw0YLQtdC20L3Ri9C5INGB0LXRgNCy0LjRgSBCaWdCYW5rIiAiRXh0ZXJuYWwgU3lzdGVtIgogICAgICAgIHNtYWxsQmFuayA9IHNvZnR3YXJlU3lzdGVtICJTbWFsbCBiYW5rIEFQSSIgItCf0LvQsNGC0LXQttC90YvQuSDRgdC10YDQstC40YEgU21hbGxCYW5rIiAiRXh0ZXJuYWwgU3lzdGVtIgoKICAgICAgICB1c2VyID0gcGVyc29uICLQn9C+0LrRg9C/0LDRgtC10LvRjCIKCiAgICAgICAgZ3JvdXAgItCc0LXQttC00YMg0YHQutC+0LHQvtC6IiB7CiAgICAgICAgICAgIGthZmthID0gc29mdHdhcmVTeXN0ZW0gIkthZmthIiAiTWVzc2FnZSBicm9rZXIiICJJbmZyYXN0cnVjdHVyZSxLYWZrYSIKICAgICAgICAgICAgI3Byb21ldGV1cyA9IHNvZnR3YXJlU3lzdGVtICJwcm9tZXRldXMiICJQcm9tZXRldXMiICJJbmZyYXN0cnVjdHVyZSIKICAgICAgICAgICAgCiAgICAgICAgICAgIHdlYlNpdGUgPSBzb2Z0d2FyZVN5c3RlbSAiV2ViLdGB0LDQudGCIiAiIiAiSW50ZXJuYWwgU3lzdGVtIgoKICAgICAgICAgICAgZ2F0ZXdheVNlcnZpY2UgPSBzb2Z0d2FyZVN5c3RlbSAiQVBJLdCz0LXQudGC0LLQtdC5IiAiQVBJLdCz0LXQudGC0LLQtdC5INC00LvRjyDRgdCw0LnRgtCwIiB7CiAgICAgICAgICAgICAgICBnYXRld2F5QXBwID0gY29udGFpbmVyICJBUEkt0LPQtdC50YLQstC10LkgQmFja2VuZCIgIiIgIlNwcmluZyBXZWJGbHV4IgogICAgICAgICAgICAgICAgZ2F0ZXdheUNhY2hlID0gY29udGFpbmVyICLQmtGN0YgiICIiICJSZWRpcyIgIkNhY2hlIgogICAgICAgICAgICB9CgogICAgICAgICAgICBjdXN0b21lclNlcnZpY2UgPSBzb2Z0d2FyZVN5c3RlbSAi0KHQtdGA0LLQuNGBINC60LvQuNC10L3RgtC+0LIiICLQodC10YDQstC40YEg0LTQu9GPINGD0L/RgNCw0LLQu9C10L3QuNGPINC60LvQuNC10L3RgtCw0LzQuCIgewogICAgICAgICAgICAgICAgY3VzdG9tZXJBcHAgPSBjb250YWluZXIgIkJhY2tlbmQg0YHQtdGA0LLQuNGB0LAg0LrQu9C40LXQvdGC0L7QsiIgIiIgIlNwcmluZyBXZWIgTVZDIgogICAgICAgICAgICAgICAgY3VzdG9tZXJEQiA9IGNvbnRhaW5lciAi0JHQsNC30LAg0LTQsNC90L3Ri9GFIiAiIiAiUG9zdGdyZVNRTCIgIkRhdGFiYXNlIgogICAgICAgICAgICB9CgogICAgICAgICAgICAKCiAgICAgICAgICAgICMgZ3JvdXAgIlBheW1lbnRBcHAiIHsKICAgICAgICAgICAgICAgIHBheUdhdGV3YXlTZXJ2aWNlID0gc29mdHdhcmVTeXN0ZW0gItCh0LXRgNCy0LjRgSDQv9C70LDRgtC10LbQtdC5IiAi0KHQtdGA0LLQuNGBINC00LvRjyDQv9GA0L7QstC10LTQtdC90LjRjyDQvtC/0LvQsNGCINGH0LXRgNC10Lcg0LLQvdC10YjQvdC40YUg0L/RgNC+0LLQsNC50LTQtdGA0L7QsiIgewogICAgICAgICAgICAgICAgICAgIHBheUdhdGV3YXlBcHAgPSBjb250YWluZXIgIkJhY2tlbmQg0YHQtdGA0LLQuNGB0LAg0L/Qu9Cw0YLQtdC20LXQuSIgIiIgIlNwcmluZyBXZWIgTVZDIgogICAgICAgICAgICAgICAgICAgIHBheUdhdGV3YXlEQiA9IGNvbnRhaW5lciAi0JHQsNC30LAg0LTQsNC90L3Ri9GFIiAiIiAiUG9zdGdyZVNRTCIgIkRhdGFiYXNlIgogICAgICAgICAgICAgICAgICAgIHBheUdhdGV3YXlTY2hlZHVsZXJBcHAgPSBjb250YWluZXIgItCf0LvQsNC90LjRgNC+0LLRidC40Log0YHQtdGA0LLQuNGB0LAg0L/Qu9Cw0YLQtdC20LXQuSIgIiIgIlNwcmluZyBRdWFydHoiCgogICAgICAgICAgICAgICAgICAgIHBheUJpZ0JhbmtBcHAgPSBjb250YWluZXIgIkJhY2tlbmQg0LrQvtC90L3QtdC60YLQvtGA0LAg0LogQmlnQmFuayIgIiIgIlNwcmluZyBXZWIgTVZDIgogICAgICAgICAgICAgICAgICAgIHBheVNtYWxsQmFua0FwcCA9IGNvbnRhaW5lciAiQmFja2VuZCDQutC+0L3QvdC10LrRgtC+0YDQsCDQuiBTbWFsbCBCYW5rIiAiIiAiU3ByaW5nIFdlYiBNVkMiCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgIyBwYXlCaWdCYW5rU2VydmljZSA9IHNvZnR3YXJlU3lzdGVtICLQmtC+0L3QvdC10LrRgtC+0YAg0LogQmlnIEJhbmsiICLQmtC+0L3QvdC10LrRgtC+0YAg0Log0L/Qu9Cw0YLQtdC20L3QvtC80YMg0YHQtdGA0LLQuNGB0YMgQmlnIEJhbmsiIHsKICAgICAgICAgICAgICAgICMgICAgIHBheUJpZ0JhbmtBcHAgPSBjb250YWluZXIgIkJhY2tlbmQg0LrQvtC90L3QtdC60YLQvtGA0LAg0LogQmlnIEJhbmsiICIiICJTcHJpbmcgV2ViIE1WQyIKICAgICAgICAgICAgICAgICMgfQoKICAgICAgICAgICAgICAgICMgcGF5U21hbGxCYW5rU2VydmljZSA9IHNvZnR3YXJlU3lzdGVtICLQmtC+0L3QvdC10LrRgtC+0YAg0LogU21hbGwgQmFuayIgItCa0L7QvdC90LXQutGC0L7RgCDQuiDQv9C70LDRgtC10LbQvdC+0LzRgyDRgdC10YDQstC40YHRgyBTbWFsbCBCYW5rIiB7CiAgICAgICAgICAgICAgICAjICAgICBwYXlTbWFsbEJhbmtBcHAgPSBjb250YWluZXIgIkJhY2tlbmQg0LrQvtC90L3QtdC60YLQvtGA0LAg0LogU21hbGwgQmFuayIgIiIgIlNwcmluZyBXZWIgTVZDIgogICAgICAgICAgICAgICAgIyB9CiAgICAgICAgICAgICMgfQogICAgICAgIH0KCiAgICAgICAgdXNlciAtPiB3ZWJTaXRlICLQmNGB0L/QvtC70YzQt9GD0LXRgiIKCiAgICAgICAgIyMjIGdhdGV3YXlTZXJ2aWNlICMjIwogICAgICAgIGdhdGV3YXlBcHAgLT4gd2ViU2l0ZSAi0J/QvtC70YPRh9Cw0LXRgiDQt9Cw0L/RgNC+0YHRiyDQvtGCIiAiSlNPTi9IVFRQIgogICAgICAgIGdhdGV3YXlBcHAgLT4gZ2F0ZXdheUNhY2hlICLQmtGN0YjQuNGA0YPQtdGCINC+0YLQstC10YLRiyDQsiIKCiAgICAgICAgIyMjIGN1c3RvbWVyU2VydmljZSAjIyMKICAgICAgICBjdXN0b21lckFwcCAtPiBnYXRld2F5QXBwICLQn9C+0LvRg9GH0LDQtdGCINC30LDQv9GA0L7RgdGLINGH0LXRgNC10LciICJKU09OL0hUVFAiCiAgICAgICAgY3VzdG9tZXJBcHAgLT4gY3VzdG9tZXJEQiAi0KXRgNCw0L3QuNGCINC30LDQutCw0LfRiyDQsiIgIkpEQkMiCiAgICAgICAgI9GC0YPRgiDQtdGB0YLRjCDQv9GA0L7QsdC70LXQvNCwCiAgICAgICAgY3VzdG9tZXJBcHAgLT4ga2Fma2EgItCf0L7Qu9GD0YfQsNC10YIg0YHRgtCw0YLRg9GB0Ysg0L/Qu9Cw0YLQtdC20LXQuSDQuNC3IgoKICAgICAgICAjIyMgcGF5bWVudFNlcnZpY2UgIyMjCiAgICAgICAgcGF5R2F0ZXdheUFwcCAtPiBnYXRld2F5QXBwICLQn9C+0LvRg9GH0LDQtdGCINC30LDQv9GA0L7RgdGLINC90LAg0L7Qv9C70LDRgtGDINGH0LXRgNC10LciICJKU09OL0hUVFAiCiAgICAgICAgcGF5R2F0ZXdheUFwcCAtPiBwYXlHYXRld2F5REIgItCl0YDQsNC90LjRgiDQv9C70LDRgtC10LbQuCDQsiIgIkpEQkMiCiAgICAgICAgcGF5R2F0ZXdheUFwcCAtPiBjdXN0b21lckFwcCAi0J/QvtC70YPRh9Cw0LXRgiDQuNC90YTQvtGA0LzQsNGG0LjRjiDQviDQutC70LjQtdC90YLQtSDQuNC3IiAiSlNPTi9IVFRQIgogICAgICAgIHBheUdhdGV3YXlBcHAgLT4ga2Fma2EgItCe0YLQv9GA0LDQstC70Y/QtdGCINGB0YLQsNGC0YPRgdGLINC/0LvQsNGC0LXQttC10Lkg0LIiCiAgICAgICAgcGF5R2F0ZXdheVNjaGVkdWxlckFwcCAtPiBwYXlHYXRld2F5REIgItCf0L7Qu9GD0YfQsNC10YIg0LfQsNCy0LjRgdGI0LjQtSDQv9C70LDRgtC10LbQuCDQuNC3IiAiSkRCQyIKICAgICAgICBwYXlHYXRld2F5U2NoZWR1bGVyQXBwIC0+IHBheUdhdGV3YXlBcHAgItCf0L7QstGC0L7RgNGP0LXRgiDQv9C70LDRgtC10LbQuCDRh9C10YDQtdC3IiAiSlNPTi9IVFRQIgoKICAgICAgICBwYXlCaWdCYW5rQXBwIC0+IHBheUdhdGV3YXlBcHAgItCf0L7Qu9GD0YfQsNC10YIg0LfQsNC/0YDQvtGB0Ysg0LjQtyIgIkpTT04vSFRUUCIKICAgICAgICBwYXlCaWdCYW5rQXBwIC0+IGJpZ0JhbmsgItCe0YLQv9GA0LDQstC70Y/QtdGCINC30LDQv9GA0L7RgdGLINCyIiAiSlNPTi9IVFRQIgogICAgICAgIHBheVNtYWxsQmFua0FwcCAtPiBwYXlHYXRld2F5QXBwICLQn9C+0LvRg9GH0LDQtdGCINC30LDQv9GA0L7RgdGLINC40LciICJKU09OL0hUVFAiCiAgICAgICAgcGF5U21hbGxCYW5rQXBwIC0+IHNtYWxsQmFuayAi0J7RgtC/0YDQsNCy0LvRj9C10YIg0LfQsNC/0YDQvtGB0Ysg0LIiICJKU09OL0hUVFAiCiAgICB9CgogICAgI3N5c3RlbUNvbnRleHQgPHNvZnR3YXJlIHN5c3RlbSBpZGVudGlmaWVyPiBba2V5XSBbZGVzY3JpcHRpb25dCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtTGFuZHNjYXBlICJTeXN0ZW1MYW5kc2NhcGUiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICNhdXRvTGF5b3V0IGJ0CgogICAgICAgICAgICAjIXNjcmlwdCBncm9vdnkgewogICAgICAgICAgICAjICAgIHdvcmtzcGFjZS5tb2RlbC5zb2Z0d2FyZVN5c3RlbXMuZmluZEFsbCB7IGl0Lmdyb3VwID09ICJHcm91cCAxIiAmJiBpdC5oYXNUYWcoIlRhZyAxIikgfS5lYWNoeyB2aWV3LmFkZChpdCk7IH07CiAgICAgICAgICAgICN9CiAgICAgICAgfQoKICAgICAgICAjIyMgZ2F0ZXdheVNlcnZpY2UgIyMjCiAgICAgICAgc3lzdGVtQ29udGV4dCBnYXRld2F5U2VydmljZSAiZ2F0ZXdheVNlcnZpY2VDb250ZXh0IiAiR2F0ZXdheSBTZXJ2aWNlIENvbnRleHQgRGlhZ3JhbSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgZXhjbHVkZSAqLT4qCiAgICAgICAgICAgIGluY2x1ZGUgKi0+Z2F0ZXdheVNlcnZpY2UKICAgICAgICAgICAgaW5jbHVkZSBnYXRld2F5U2VydmljZS0+KgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQogICAgICAgIGNvbnRhaW5lciBnYXRld2F5U2VydmljZSAiZ2F0ZXdheVNlcnZpY2VDb250YWluZXJzIiAiR2F0ZXdheSBTZXJ2aWNlIENvbnRhaW5lcnMgRGlhZ3JhbSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgZXhjbHVkZSAiZWxlbWVudC50eXBlPT1zb2Z0d2FyZVN5c3RlbS0+ZWxlbWVudC50eXBlPT1zb2Z0d2FyZVN5c3RlbSIKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KCiAgICAgICAgIyMjIGN1c3RvbWVyU2VydmljZSAjIyMKICAgICAgICBzeXN0ZW1Db250ZXh0IGN1c3RvbWVyU2VydmljZSAiY3VzdG9tZXJTZXJ2aWNlQ29udGV4dCIgIkN1c3RvbWVyIFNlcnZpY2UgQ29udGV4dCBEaWFncmFtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBleGNsdWRlICotPioKICAgICAgICAgICAgaW5jbHVkZSAqLT5jdXN0b21lclNlcnZpY2UKICAgICAgICAgICAgaW5jbHVkZSBjdXN0b21lclNlcnZpY2UtPioKICAgICAgICAgICAgYXV0b0xheW91dAogICAgICAgIH0KICAgICAgICBjb250YWluZXIgY3VzdG9tZXJTZXJ2aWNlICJjdXN0b21lclNlcnZpY2VDb250YWluZXJzIiAiQ3VzdG9tZXIgU2VydmljZSBDb250YWluZXJzIERpYWdyYW0iIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGV4Y2x1ZGUgImVsZW1lbnQudHlwZT09c29mdHdhcmVTeXN0ZW0tPmVsZW1lbnQudHlwZT09c29mdHdhcmVTeXN0ZW0iCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CgogICAgICAgICMjIyBwYXltZW50U2VydmljZSAjIyMKICAgICAgICBzeXN0ZW1Db250ZXh0IHBheUdhdGV3YXlTZXJ2aWNlICJwYXlHYXRld2F5U2VydmljZUNvbnRleHQiICJQYXltZW50IFNlcnZpY2UgQ29udGV4dCBEaWFncmFtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBleGNsdWRlICotPioKICAgICAgICAgICAgaW5jbHVkZSAqLT5wYXlHYXRld2F5U2VydmljZQogICAgICAgICAgICBpbmNsdWRlIHBheUdhdGV3YXlTZXJ2aWNlLT4qCiAgICAgICAgICAgIGF1dG9MYXlvdXQKICAgICAgICB9CiAgICAgICAgY29udGFpbmVyIHBheUdhdGV3YXlTZXJ2aWNlICJwYXlHYXRld2F5U2VydmljZUNvbnRhaW5lcnMiICJQYXltZW50IFNlcnZpY2UgQ29udGFpbmVycyBEaWFncmFtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBleGNsdWRlICJlbGVtZW50LnR5cGU9PXNvZnR3YXJlU3lzdGVtLT5lbGVtZW50LnR5cGU9PXNvZnR3YXJlU3lzdGVtIgogICAgICAgICAgICBhdXRvTGF5b3V0CiAgICAgICAgfQoKCiAgICAgICAgIyBzeXN0ZW1Db250ZXh0IHBheUJpZ0JhbmtTZXJ2aWNlICJwYXlCaWdCYW5rU2VydmljZUNvbnRleHQiICJQYXkgQmlnQmFuayBTZXJ2aWNlIENvbnRleHQgRGlhZ3JhbSIgewogICAgICAgICMgICAgIGluY2x1ZGUgKgogICAgICAgICMgICAgIGV4Y2x1ZGUgKi0+KgogICAgICAgICMgICAgIGluY2x1ZGUgKi0+cGF5QmlnQmFua1NlcnZpY2UKICAgICAgICAjICAgICBpbmNsdWRlIHBheUJpZ0JhbmtTZXJ2aWNlLT4qCiAgICAgICAgIyAgICAgYXV0b0xheW91dAogICAgICAgICMgfQogICAgICAgICMgY29udGFpbmVyIHBheUJpZ0JhbmtTZXJ2aWNlICJwYXlCaWdCYW5rU2VydmljZUNvbnRhaW5lcnMiICJQYXkgQmlnQmFuayBTZXJ2aWNlIENvbnRhaW5lcnMgRGlhZ3JhbSIgewogICAgICAgICMgICAgIGluY2x1ZGUgKgogICAgICAgICMgICAgIGV4Y2x1ZGUgImVsZW1lbnQudHlwZT09c29mdHdhcmVTeXN0ZW0tPmVsZW1lbnQudHlwZT09c29mdHdhcmVTeXN0ZW0iCiAgICAgICAgIyAgICAgYXV0b0xheW91dAogICAgICAgICMgfQoKICAgICAgICAjIHN5c3RlbUNvbnRleHQgcGF5U21hbGxCYW5rU2VydmljZSAicGF5U21hbGxCYW5rU2VydmljZUNvbnRleHQiICJQYXkgU21hbGxCYW5rIFNlcnZpY2UgQ29udGV4dCBEaWFncmFtIiB7CiAgICAgICAgIyAgICAgaW5jbHVkZSAqCiAgICAgICAgIyAgICAgZXhjbHVkZSAqLT4qCiAgICAgICAgIyAgICAgaW5jbHVkZSAqLT5wYXlTbWFsbEJhbmtTZXJ2aWNlCiAgICAgICAgIyAgICAgaW5jbHVkZSBwYXlTbWFsbEJhbmtTZXJ2aWNlLT4qCiAgICAgICAgIyAgICAgYXV0b0xheW91dAogICAgICAgICMgfQogICAgICAgICMgY29udGFpbmVyIHBheVNtYWxsQmFua1NlcnZpY2UgInBheVNtYWxsQmFua1NlcnZpY2VDb250YWluZXJzIiAiUGF5IFNtYWxsQmFuayBTZXJ2aWNlIENvbnRhaW5lcnMgRGlhZ3JhbSIgewogICAgICAgICMgICAgIGluY2x1ZGUgKgogICAgICAgICMgICAgIGV4Y2x1ZGUgImVsZW1lbnQudHlwZT09c29mdHdhcmVTeXN0ZW0tPmVsZW1lbnQudHlwZT09c29mdHdhcmVTeXN0ZW0iCiAgICAgICAgIyAgICAgYXV0b0xheW91dAogICAgICAgICMgfQoKCiAgICAgICAgdGhlbWUgZGVmYXVsdAogICAgICAgIHN0eWxlcyB7CiAgICAgICAgICAgIGVsZW1lbnQgIkVsZW1lbnQiIHsKICAgICAgICAgICAgICAgIHNoYXBlIFJvdW5kZWRCb3gKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJQZXJzb24iIHsKICAgICAgICAgICAgICAgIHNoYXBlIFBlcnNvbgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkV4dGVybmFsIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjOTk5OTk5CiAgICAgICAgICAgICAgICBjb2xvciAjMDAwMDAwCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiSW5mcmFzdHJ1Y3R1cmUiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgICMxYWJjOWMKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJJbnRlcm5hbCBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzY2MDBjYwogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIlNvZnR3YXJlIFN5c3RlbSIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjMTE2OGJkCiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiQ29udGFpbmVyIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM0MzhkZDUKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJDb21wb25lbnQiIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzg1YmJmMAogICAgICAgICAgICAgICAgY29sb3IgIzAwMDAwMAogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkRhdGFiYXNlIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBDeWxpbmRlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkthZmthIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBQaXBlCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0K"
   },
   "configuration" : { },
   "model" : {
@@ -20,7 +19,7 @@
         "id" : "18",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "cd0c6e2d-743d-4398-8122-62b11ed61bca"
+          "structurizr.dsl.identifier" : "77ace48b-87ff-4939-adc8-aa444ec02165"
         },
         "sourceId" : "3",
         "destinationId" : "5",
@@ -29,6 +28,105 @@
       "location" : "Unspecified"
     } ],
     "softwareSystems" : [ {
+      "id" : "1",
+      "tags" : "Element,Software System,External System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "bigbank"
+      },
+      "name" : "Big bank API",
+      "description" : "Платежный сервис BigBank",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "2",
+      "tags" : "Element,Software System,External System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "smallbank"
+      },
+      "name" : "Small bank API",
+      "description" : "Платежный сервис SmallBank",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "4",
+      "tags" : "Element,Software System,Infrastructure,Kafka",
+      "properties" : {
+        "structurizr.dsl.identifier" : "kafka"
+      },
+      "name" : "Kafka",
+      "description" : "Message broker",
+      "group" : "Между скобок",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System,Internal System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "website"
+      },
+      "name" : "Web-сайт",
+      "group" : "Между скобок",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "6",
+      "tags" : "Element,Software System",
+      "properties" : {
+        "structurizr.dsl.identifier" : "gatewayservice"
+      },
+      "name" : "API-гейтвей",
+      "description" : "API-гейтвей для сайта",
+      "relationships" : [ {
+        "id" : "20",
+        "sourceId" : "6",
+        "destinationId" : "5",
+        "description" : "Получает запросы от",
+        "technology" : "JSON/HTTP",
+        "linkedRelationshipId" : "19"
+      } ],
+      "group" : "Между скобок",
+      "location" : "Unspecified",
+      "containers" : [ {
+        "id" : "8",
+        "tags" : "Element,Container,Cache",
+        "properties" : {
+          "structurizr.dsl.identifier" : "gatewaycache"
+        },
+        "name" : "Кэш",
+        "technology" : "Redis",
+        "documentation" : { }
+      }, {
+        "id" : "7",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "gatewayapp"
+        },
+        "name" : "API-гейтвей Backend",
+        "relationships" : [ {
+          "id" : "19",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "a30c1572-2922-47c0-9be2-45f4667ef100"
+          },
+          "sourceId" : "7",
+          "destinationId" : "5",
+          "description" : "Получает запросы от",
+          "technology" : "JSON/HTTP"
+        }, {
+          "id" : "21",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "f9a02ca2-f21f-4268-a221-7496af6d39a3"
+          },
+          "sourceId" : "7",
+          "destinationId" : "8",
+          "description" : "Кэширует ответы в"
+        } ],
+        "technology" : "Spring WebFlux",
+        "documentation" : { }
+      } ],
+      "documentation" : { }
+    }, {
       "id" : "9",
       "tags" : "Element,Software System",
       "properties" : {
@@ -60,6 +158,15 @@
       "group" : "Между скобок",
       "location" : "Unspecified",
       "containers" : [ {
+        "id" : "11",
+        "tags" : "Element,Container,Database",
+        "properties" : {
+          "structurizr.dsl.identifier" : "customerdb"
+        },
+        "name" : "База данных",
+        "technology" : "PostgreSQL",
+        "documentation" : { }
+      }, {
         "id" : "10",
         "tags" : "Element,Container",
         "properties" : {
@@ -67,6 +174,16 @@
         },
         "name" : "Backend сервиса клиентов",
         "relationships" : [ {
+          "id" : "22",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "82a7f410-c285-4111-9696-2f49bb5f4a52"
+          },
+          "sourceId" : "10",
+          "destinationId" : "7",
+          "description" : "Получает запросы через",
+          "technology" : "JSON/HTTP"
+        }, {
           "id" : "23",
           "sourceId" : "10",
           "destinationId" : "6",
@@ -77,7 +194,7 @@
           "id" : "26",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "f114cfb7-ef45-4272-81ec-9215c6ebdbd2"
+            "structurizr.dsl.identifier" : "817719a5-62f0-4d89-9a77-1346b23f3cc3"
           },
           "sourceId" : "10",
           "destinationId" : "11",
@@ -87,64 +204,15 @@
           "id" : "27",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "1994738e-352b-4eec-87e6-5038c48a041e"
+            "structurizr.dsl.identifier" : "75deb159-c5ef-460e-95cb-61be8ee9d6f8"
           },
           "sourceId" : "10",
           "destinationId" : "4",
           "description" : "Получает статусы платежей из"
-        }, {
-          "id" : "22",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "c8aea5cf-1f6b-49f5-93e8-4da88a22d512"
-          },
-          "sourceId" : "10",
-          "destinationId" : "7",
-          "description" : "Получает запросы через",
-          "technology" : "JSON/HTTP"
         } ],
         "technology" : "Spring Web MVC",
         "documentation" : { }
-      }, {
-        "id" : "11",
-        "tags" : "Element,Container,Database",
-        "properties" : {
-          "structurizr.dsl.identifier" : "customerdb"
-        },
-        "name" : "База данных",
-        "technology" : "PostgreSQL",
-        "documentation" : { }
       } ],
-      "documentation" : { }
-    }, {
-      "id" : "1",
-      "tags" : "Element,Software System,External System",
-      "properties" : {
-        "structurizr.dsl.identifier" : "bigbank"
-      },
-      "name" : "Big bank API",
-      "description" : "Платежный сервис BigBank",
-      "location" : "Unspecified",
-      "documentation" : { }
-    }, {
-      "id" : "2",
-      "tags" : "Element,Software System,External System",
-      "properties" : {
-        "structurizr.dsl.identifier" : "smallbank"
-      },
-      "name" : "Small bank API",
-      "description" : "Платежный сервис SmallBank",
-      "location" : "Unspecified",
-      "documentation" : { }
-    }, {
-      "id" : "5",
-      "tags" : "Element,Software System,Internal System",
-      "properties" : {
-        "structurizr.dsl.identifier" : "website"
-      },
-      "name" : "Web-сайт",
-      "group" : "Между скобок",
-      "location" : "Unspecified",
       "documentation" : { }
     }, {
       "id" : "12",
@@ -155,12 +223,12 @@
       "name" : "Сервис платежей",
       "description" : "Сервис для проведения оплат через внешних провайдеров",
       "relationships" : [ {
-        "id" : "36",
+        "id" : "31",
         "sourceId" : "12",
-        "destinationId" : "10",
-        "description" : "Получает информацию о клиенте из",
+        "destinationId" : "7",
+        "description" : "Получает запросы на оплату через",
         "technology" : "JSON/HTTP",
-        "linkedRelationshipId" : "34"
+        "linkedRelationshipId" : "29"
       }, {
         "id" : "32",
         "sourceId" : "12",
@@ -169,12 +237,12 @@
         "technology" : "JSON/HTTP",
         "linkedRelationshipId" : "29"
       }, {
-        "id" : "44",
+        "id" : "36",
         "sourceId" : "12",
-        "destinationId" : "1",
-        "description" : "Отправляет запросы в",
+        "destinationId" : "10",
+        "description" : "Получает информацию о клиенте из",
         "technology" : "JSON/HTTP",
-        "linkedRelationshipId" : "43"
+        "linkedRelationshipId" : "34"
       }, {
         "id" : "37",
         "sourceId" : "12",
@@ -189,12 +257,12 @@
         "description" : "Отправляет статусы платежей в",
         "linkedRelationshipId" : "38"
       }, {
-        "id" : "31",
+        "id" : "44",
         "sourceId" : "12",
-        "destinationId" : "7",
-        "description" : "Получает запросы на оплату через",
+        "destinationId" : "1",
+        "description" : "Отправляет запросы в",
         "technology" : "JSON/HTTP",
-        "linkedRelationshipId" : "29"
+        "linkedRelationshipId" : "43"
       }, {
         "id" : "47",
         "sourceId" : "12",
@@ -206,43 +274,97 @@
       "group" : "Между скобок",
       "location" : "Unspecified",
       "containers" : [ {
-        "id" : "17",
+        "id" : "13",
         "tags" : "Element,Container",
         "properties" : {
-          "structurizr.dsl.identifier" : "paysmallbankapp"
+          "structurizr.dsl.identifier" : "paygatewayapp"
         },
-        "name" : "Backend коннектора к Small Bank",
+        "name" : "Backend сервиса платежей",
         "relationships" : [ {
-          "id" : "46",
+          "id" : "29",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "d33d4ba0-b7f5-40c1-8b67-4c3eaa7cce2b"
+            "structurizr.dsl.identifier" : "94fee30a-9fa2-48dc-9acc-23facc7eaccd"
           },
-          "sourceId" : "17",
-          "destinationId" : "2",
-          "description" : "Отправляет запросы в",
+          "sourceId" : "13",
+          "destinationId" : "7",
+          "description" : "Получает запросы на оплату через",
           "technology" : "JSON/HTTP"
         }, {
-          "id" : "45",
+          "id" : "30",
+          "sourceId" : "13",
+          "destinationId" : "6",
+          "description" : "Получает запросы на оплату через",
+          "technology" : "JSON/HTTP",
+          "linkedRelationshipId" : "29"
+        }, {
+          "id" : "33",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "d1f6057c-815f-4d15-a5fb-330259412ded"
+            "structurizr.dsl.identifier" : "e62bcf2b-e8a5-4a84-a014-47cf0b7dd718"
           },
-          "sourceId" : "17",
-          "destinationId" : "13",
-          "description" : "Получает запросы из",
+          "sourceId" : "13",
+          "destinationId" : "14",
+          "description" : "Хранит платежи в",
+          "technology" : "JDBC"
+        }, {
+          "id" : "34",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "af817ce2-362e-49fa-9ea6-f8b18b768399"
+          },
+          "sourceId" : "13",
+          "destinationId" : "10",
+          "description" : "Получает информацию о клиенте из",
           "technology" : "JSON/HTTP"
+        }, {
+          "id" : "35",
+          "sourceId" : "13",
+          "destinationId" : "9",
+          "description" : "Получает информацию о клиенте из",
+          "technology" : "JSON/HTTP",
+          "linkedRelationshipId" : "34"
+        }, {
+          "id" : "38",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "4e23a603-a39b-4645-9a2c-fb008cd91102"
+          },
+          "sourceId" : "13",
+          "destinationId" : "4",
+          "description" : "Отправляет статусы платежей в"
         } ],
         "technology" : "Spring Web MVC",
         "documentation" : { }
       }, {
-        "id" : "14",
-        "tags" : "Element,Container,Database",
+        "id" : "16",
+        "tags" : "Element,Container",
         "properties" : {
-          "structurizr.dsl.identifier" : "paygatewaydb"
+          "structurizr.dsl.identifier" : "paybigbankapp"
         },
-        "name" : "База данных",
-        "technology" : "PostgreSQL",
+        "name" : "Backend коннектора к BigBank",
+        "relationships" : [ {
+          "id" : "42",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "4728c7b7-8362-441b-ac1a-1583d38af043"
+          },
+          "sourceId" : "16",
+          "destinationId" : "13",
+          "description" : "Получает запросы из",
+          "technology" : "JSON/HTTP"
+        }, {
+          "id" : "43",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "bd77b664-b238-4ce9-999e-a1b7b75921de"
+          },
+          "sourceId" : "16",
+          "destinationId" : "1",
+          "description" : "Отправляет запросы в",
+          "technology" : "JSON/HTTP"
+        } ],
+        "technology" : "Spring Web MVC",
         "documentation" : { }
       }, {
         "id" : "15",
@@ -255,7 +377,7 @@
           "id" : "40",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "9cab8075-3a43-496e-b923-b84c98aa51d0"
+            "structurizr.dsl.identifier" : "3e75b6f7-6aa2-4eb9-984b-ce0911bfad3e"
           },
           "sourceId" : "15",
           "destinationId" : "14",
@@ -265,7 +387,7 @@
           "id" : "41",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "6ff0823e-cab5-4d0a-9387-7a4f73cda04c"
+            "structurizr.dsl.identifier" : "a29bee3c-aab5-4b41-b5c4-65d880d0c27b"
           },
           "sourceId" : "15",
           "destinationId" : "13",
@@ -275,168 +397,45 @@
         "technology" : "Spring Quartz",
         "documentation" : { }
       }, {
-        "id" : "13",
-        "tags" : "Element,Container",
+        "id" : "14",
+        "tags" : "Element,Container,Database",
         "properties" : {
-          "structurizr.dsl.identifier" : "paygatewayapp"
+          "structurizr.dsl.identifier" : "paygatewaydb"
         },
-        "name" : "Backend сервиса платежей",
-        "relationships" : [ {
-          "id" : "35",
-          "sourceId" : "13",
-          "destinationId" : "9",
-          "description" : "Получает информацию о клиенте из",
-          "technology" : "JSON/HTTP",
-          "linkedRelationshipId" : "34"
-        }, {
-          "id" : "38",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "b87abc8d-1a36-4ff4-a60f-8be23d1ea6a9"
-          },
-          "sourceId" : "13",
-          "destinationId" : "4",
-          "description" : "Отправляет статусы платежей в"
-        }, {
-          "id" : "30",
-          "sourceId" : "13",
-          "destinationId" : "6",
-          "description" : "Получает запросы на оплату через",
-          "technology" : "JSON/HTTP",
-          "linkedRelationshipId" : "29"
-        }, {
-          "id" : "29",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "faee300d-f8fb-488c-9147-a612d10fe4de"
-          },
-          "sourceId" : "13",
-          "destinationId" : "7",
-          "description" : "Получает запросы на оплату через",
-          "technology" : "JSON/HTTP"
-        }, {
-          "id" : "33",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "40c961b5-fdf8-4ab5-99e4-dc1af4460385"
-          },
-          "sourceId" : "13",
-          "destinationId" : "14",
-          "description" : "Хранит платежи в",
-          "technology" : "JDBC"
-        }, {
-          "id" : "34",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "defb632a-b1bf-47e2-88ce-bc926fc0b813"
-          },
-          "sourceId" : "13",
-          "destinationId" : "10",
-          "description" : "Получает информацию о клиенте из",
-          "technology" : "JSON/HTTP"
-        } ],
-        "technology" : "Spring Web MVC",
+        "name" : "База данных",
+        "technology" : "PostgreSQL",
         "documentation" : { }
       }, {
-        "id" : "16",
+        "id" : "17",
         "tags" : "Element,Container",
         "properties" : {
-          "structurizr.dsl.identifier" : "paybigbankapp"
+          "structurizr.dsl.identifier" : "paysmallbankapp"
         },
-        "name" : "Backend коннектора к BigBank",
+        "name" : "Backend коннектора к Small Bank",
         "relationships" : [ {
-          "id" : "43",
+          "id" : "45",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "e7f86195-1c8b-4434-b707-a4baab0ab0cb"
+            "structurizr.dsl.identifier" : "eccebdc8-9c97-4c13-973a-765f60c035e6"
           },
-          "sourceId" : "16",
-          "destinationId" : "1",
-          "description" : "Отправляет запросы в",
-          "technology" : "JSON/HTTP"
-        }, {
-          "id" : "42",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "1c764fc4-af51-47b2-821b-4cfd9db845b0"
-          },
-          "sourceId" : "16",
+          "sourceId" : "17",
           "destinationId" : "13",
           "description" : "Получает запросы из",
           "technology" : "JSON/HTTP"
+        }, {
+          "id" : "46",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "ba8c0a69-0a67-49ef-8477-3ff811ff5086"
+          },
+          "sourceId" : "17",
+          "destinationId" : "2",
+          "description" : "Отправляет запросы в",
+          "technology" : "JSON/HTTP"
         } ],
         "technology" : "Spring Web MVC",
         "documentation" : { }
       } ],
-      "documentation" : { }
-    }, {
-      "id" : "6",
-      "tags" : "Element,Software System",
-      "properties" : {
-        "structurizr.dsl.identifier" : "gatewayservice"
-      },
-      "name" : "API-гейтвей",
-      "description" : "API-гейтвей для сайта",
-      "relationships" : [ {
-        "id" : "20",
-        "sourceId" : "6",
-        "destinationId" : "5",
-        "description" : "Получает запросы от",
-        "technology" : "JSON/HTTP",
-        "linkedRelationshipId" : "19"
-      } ],
-      "group" : "Между скобок",
-      "location" : "Unspecified",
-      "containers" : [ {
-        "id" : "7",
-        "tags" : "Element,Container",
-        "properties" : {
-          "structurizr.dsl.identifier" : "gatewayapp"
-        },
-        "name" : "API-гейтвей Backend",
-        "relationships" : [ {
-          "id" : "21",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "fd8ce376-fddd-43bf-855d-dd72015b1251"
-          },
-          "sourceId" : "7",
-          "destinationId" : "8",
-          "description" : "Кэширует ответы в"
-        }, {
-          "id" : "19",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "ceb3295a-fa3c-4974-a862-f30b067576f5"
-          },
-          "sourceId" : "7",
-          "destinationId" : "5",
-          "description" : "Получает запросы от",
-          "technology" : "JSON/HTTP"
-        } ],
-        "technology" : "Spring WebFlux",
-        "documentation" : { }
-      }, {
-        "id" : "8",
-        "tags" : "Element,Container,Cache",
-        "properties" : {
-          "structurizr.dsl.identifier" : "gatewaycache"
-        },
-        "name" : "Кэш",
-        "technology" : "Redis",
-        "documentation" : { }
-      } ],
-      "documentation" : { }
-    }, {
-      "id" : "4",
-      "tags" : "Element,Software System,Infrastructure,Kafka",
-      "properties" : {
-        "structurizr.dsl.identifier" : "kafka"
-      },
-      "name" : "Kafka",
-      "description" : "Message broker",
-      "group" : "Между скобок",
-      "location" : "Unspecified",
       "documentation" : { }
     } ],
     "properties" : {
@@ -576,14 +575,10 @@
       } ]
     } ],
     "systemContextViews" : [ {
-      "key" : "gatewayServiceContext",
-      "order" : 2,
-      "description" : "Gateway Service Context Diagram",
-      "softwareSystemId" : "6",
-      "dimensions" : {
-        "width" : 1640,
-        "height" : 1994
-      },
+      "key" : "customerServiceContext",
+      "order" : 4,
+      "description" : "Customer Service Context Diagram",
+      "softwareSystemId" : "9",
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "TopBottom",
@@ -591,25 +586,64 @@
         "nodeSeparation" : 300,
         "edgeSeparation" : 0,
         "vertices" : false,
-        "applied" : true
+        "applied" : false
       },
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "12",
-        "x" : 970,
-        "y" : 220
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "5",
-        "x" : 595,
-        "y" : 1420
+        "id" : "4",
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "6",
-        "x" : 595,
-        "y" : 820
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "9",
-        "x" : 220,
-        "y" : 220
+        "x" : 0,
+        "y" : 0
+      } ],
+      "relationships" : [ {
+        "id" : "28"
+      }, {
+        "id" : "37"
+      }, {
+        "id" : "25"
+      } ]
+    }, {
+      "key" : "gatewayServiceContext",
+      "order" : 2,
+      "description" : "Gateway Service Context Diagram",
+      "softwareSystemId" : "6",
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false,
+        "applied" : false
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "12",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "5",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "6",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "9",
+        "x" : 0,
+        "y" : 0
       } ],
       "relationships" : [ {
         "id" : "25"
@@ -623,10 +657,6 @@
       "order" : 6,
       "description" : "Payment Service Context Diagram",
       "softwareSystemId" : "12",
-      "dimensions" : {
-        "width" : 3870,
-        "height" : 1394
-      },
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "TopBottom",
@@ -634,33 +664,33 @@
         "nodeSeparation" : 300,
         "edgeSeparation" : 0,
         "vertices" : false,
-        "applied" : true
+        "applied" : false
       },
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
         "id" : "12",
-        "x" : 1719,
-        "y" : 220
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "1",
-        "x" : 2469,
-        "y" : 820
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "2",
-        "x" : 3219,
-        "y" : 820
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "4",
-        "x" : 219,
-        "y" : 820
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "6",
-        "x" : 969,
-        "y" : 820
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "9",
-        "x" : 1719,
-        "y" : 820
+        "x" : 0,
+        "y" : 0
       } ],
       "relationships" : [ {
         "id" : "37"
@@ -673,15 +703,12 @@
       }, {
         "id" : "39"
       } ]
-    }, {
-      "key" : "customerServiceContext",
-      "order" : 4,
-      "description" : "Customer Service Context Diagram",
-      "softwareSystemId" : "9",
-      "dimensions" : {
-        "width" : 1640,
-        "height" : 1994
-      },
+    } ],
+    "containerViews" : [ {
+      "key" : "payGatewayServiceContainers",
+      "order" : 7,
+      "description" : "Payment Service Containers Diagram",
+      "softwareSystemId" : "12",
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "TopBottom",
@@ -689,43 +716,76 @@
         "nodeSeparation" : 300,
         "edgeSeparation" : 0,
         "vertices" : false,
-        "applied" : true
+        "applied" : false
       },
-      "enterpriseBoundaryVisible" : true,
+      "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
-        "id" : "12",
-        "x" : 595,
-        "y" : 220
+        "id" : "1",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "13",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "2",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "14",
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "4",
-        "x" : 220,
-        "y" : 1420
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "15",
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "16",
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "6",
-        "x" : 970,
-        "y" : 1420
+        "x" : 0,
+        "y" : 0
+      }, {
+        "id" : "17",
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "9",
-        "x" : 595,
-        "y" : 820
+        "x" : 0,
+        "y" : 0
       } ],
       "relationships" : [ {
-        "id" : "28"
+        "id" : "40"
       }, {
-        "id" : "37"
+        "id" : "35"
       }, {
-        "id" : "25"
+        "id" : "41"
+      }, {
+        "id" : "42"
+      }, {
+        "id" : "43"
+      }, {
+        "id" : "33"
+      }, {
+        "id" : "45"
+      }, {
+        "id" : "30"
+      }, {
+        "id" : "46"
+      }, {
+        "id" : "38"
       } ]
-    } ],
-    "containerViews" : [ {
+    }, {
       "key" : "customerServiceContainers",
       "order" : 5,
       "description" : "Customer Service Containers Diagram",
       "softwareSystemId" : "9",
-      "dimensions" : {
-        "width" : 2370,
-        "height" : 1991
-      },
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "TopBottom",
@@ -733,29 +793,29 @@
         "nodeSeparation" : 300,
         "edgeSeparation" : 0,
         "vertices" : false,
-        "applied" : true
+        "applied" : false
       },
       "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
         "id" : "11",
-        "x" : 219,
-        "y" : 1399
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "12",
-        "x" : 219,
-        "y" : 199
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "4",
-        "x" : 969,
-        "y" : 1399
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "6",
-        "x" : 1719,
-        "y" : 1399
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "10",
-        "x" : 219,
-        "y" : 799
+        "x" : 0,
+        "y" : 0
       } ],
       "relationships" : [ {
         "id" : "27"
@@ -767,106 +827,10 @@
         "id" : "23"
       } ]
     }, {
-      "key" : "payGatewayServiceContainers",
-      "order" : 7,
-      "description" : "Payment Service Containers Diagram",
-      "softwareSystemId" : "12",
-      "dimensions" : {
-        "width" : 4528,
-        "height" : 2011
-      },
-      "automaticLayout" : {
-        "implementation" : "Graphviz",
-        "rankDirection" : "TopBottom",
-        "rankSeparation" : 300,
-        "nodeSeparation" : 300,
-        "edgeSeparation" : 0,
-        "vertices" : false,
-        "applied" : true
-      },
-      "externalSoftwareSystemBoundariesVisible" : true,
-      "elements" : [ {
-        "id" : "1",
-        "x" : 2378,
-        "y" : 820
-      }, {
-        "id" : "13",
-        "x" : 1628,
-        "y" : 820
-      }, {
-        "id" : "2",
-        "x" : 3128,
-        "y" : 820
-      }, {
-        "id" : "14",
-        "x" : 1274,
-        "y" : 1420
-      }, {
-        "id" : "4",
-        "x" : 3128,
-        "y" : 1420
-      }, {
-        "id" : "15",
-        "x" : 220,
-        "y" : 220
-      }, {
-        "id" : "16",
-        "x" : 970,
-        "y" : 220
-      }, {
-        "id" : "6",
-        "x" : 3878,
-        "y" : 1420
-      }, {
-        "id" : "17",
-        "x" : 1720,
-        "y" : 220
-      }, {
-        "id" : "9",
-        "x" : 2378,
-        "y" : 1420
-      } ],
-      "relationships" : [ {
-        "id" : "40"
-      }, {
-        "id" : "35"
-      }, {
-        "id" : "41"
-      }, {
-        "id" : "42"
-      }, {
-        "id" : "33"
-      }, {
-        "id" : "43",
-        "vertices" : [ {
-          "x" : 1570,
-          "y" : 520
-        } ]
-      }, {
-        "id" : "45"
-      }, {
-        "id" : "30",
-        "vertices" : [ {
-          "x" : 2228,
-          "y" : 1120
-        }, {
-          "x" : 3728,
-          "y" : 1420
-        } ]
-      }, {
-        "id" : "46"
-      }, {
-        "id" : "38"
-      } ]
-    }, {
       "key" : "gatewayServiceContainers",
       "order" : 3,
       "description" : "Gateway Service Containers Diagram",
       "softwareSystemId" : "6",
-      "dimensions" : {
-        "width" : 1975,
-        "height" : 1991
-      },
       "automaticLayout" : {
         "implementation" : "Graphviz",
         "rankDirection" : "TopBottom",
@@ -874,29 +838,29 @@
         "nodeSeparation" : 300,
         "edgeSeparation" : 0,
         "vertices" : false,
-        "applied" : true
+        "applied" : false
       },
       "externalSoftwareSystemBoundariesVisible" : true,
       "elements" : [ {
         "id" : "12",
-        "x" : 200,
-        "y" : 199
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "5",
-        "x" : 1325,
-        "y" : 1399
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "7",
-        "x" : 575,
-        "y" : 799
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "8",
-        "x" : 575,
-        "y" : 1399
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "9",
-        "x" : 950,
-        "y" : 199
+        "x" : 0,
+        "y" : 0
       } ],
       "relationships" : [ {
         "id" : "24"
@@ -951,7 +915,6 @@
       },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
       "terminology" : { },
-      "metadataSymbols" : "SquareBrackets",
       "lastSavedView" : "customerServiceContainers"
     }
   }

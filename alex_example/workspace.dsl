@@ -1,4 +1,4 @@
-workspace {
+workspace "Alex Bank API with docs and adr" "This is an example workspace to illustrate the key features of Structurizr, via the DSL, based around a fictional online banking system." {
 
     #softwareSystem <name> [description] [tags]
     #container <name> [description] [technology] [tags]

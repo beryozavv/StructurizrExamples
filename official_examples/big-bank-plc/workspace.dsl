@@ -145,7 +145,7 @@ workspace "Big Bank plc" "This is an example workspace to illustrate the key fea
                 mainframe
                 email
             }
-            autoLayout
+            
             description "The system context diagram for the Internet Banking System."
             properties {
                 structurizr.groups false

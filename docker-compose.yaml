@@ -21,11 +21,34 @@ services:
       volumes:
           - ./dsl_premis_vol:/usr/local/structurizr
           
-  structurizr_cli:
+  structurizr_cli_alex:
       image: structurizr/cli
-      container_name: structurizr_cli
+      container_name: structurizr_cli_alex
       command: push -url http://172.17.0.2:8080/api -id 3 -key 9d2a3221-1da5-466c-9d7a-d89c16fa79ea -secret b39f972b-805c-47bc-924f-5e1d50c4582f -workspace workspace.dsl
       network_mode: bridge
       volumes:
         - ./alex_example:/usr/local/structurizr
-
+          
+  structurizr_cli_big_bank:
+    image: structurizr/cli
+    container_name: structurizr_cli_big_bank
+    command: push -url http://172.17.0.2:8080/api -id 4 -key bdc61c64-58bc-49a0-95f1-97cf1c91d892 -secret fad1a36b-c41b-4d03-a1d5-1436ed493857 -workspace workspace.dsl
+    network_mode: bridge
+    volumes:
+      - ./official_examples/big-bank-plc:/usr/local/structurizr
+        
+  structurizr_cli_fin_risk:
+    image: structurizr/cli
+    container_name: structurizr_cli_fin_risk
+    command: push -url http://172.17.0.2:8080/api -id 5 -key d40ed30b-79ca-454d-9400-02af7b3bc3a0 -secret a5541c1c-8f36-4dd6-81cb-ed4cb1b1363b -workspace workspace.dsl
+    network_mode: bridge
+    volumes:
+      - ./official_examples/financial-risk-system:/usr/local/structurizr
+        
+  structurizr_cli_catalog:
+    image: structurizr/cli
+    container_name: structurizr_cli_catalog
+    command: push -url http://172.17.0.2:8080/api -id 6 -key 03de654d-c35f-4543-a47b-e18a1e4e5437 -secret d193a4b0-ef5e-4f61-a920-dcd81c6ca580 -workspace dsl/system-landscape/workspace.dsl
+    network_mode: bridge
+    volumes:
+      - ./official_examples/system-catalog:/usr/local/structurizr

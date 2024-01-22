@@ -1,4 +1,4 @@
-workspace {
+workspace "System-catalog" "This is an example workspace to illustrate something" {
 
     !identifiers hierarchical
 

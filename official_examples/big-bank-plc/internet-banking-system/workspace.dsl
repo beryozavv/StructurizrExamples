@@ -17,7 +17,7 @@ workspace extends ../model.dsl {
                 mainframeBankingSystemFacade = component "Mainframe Banking System Facade" "A facade onto the mainframe banking system." "Spring Bean"
                 emailComponent = component "E-mail Component" "Sends e-mails to users." "Spring Bean"
             }
-            database = container "Database" "Stores user registration information, hashed authentication credentials, access logs, etc." "Oracle Database Schema" "Database"
+            database = container "Database" "Stores user registration information, hashed authentication credentials, access logs, etc. test" "Oracle Database Schema" "Database"
         }
 
         # relationships to/from containers

@@ -7,7 +7,9 @@ workspace {
     
         softwareSystem = softwareSystem "Software System"{
 
-            webapp = container "Web Application"
+            webapp = container "Web Application" "Provides all of the Internet functionality to customers via their web browser." "JavaScript and Angular" {
+                tags "Web Browser"
+            }
 
             service1 = group "Service 1" {
                 service1Api = container "Service 1 API" {
@@ -135,6 +137,9 @@ workspace {
             }
             element "Database" {
                 shape cylinder
+            }
+            element "Web Browser" {
+                shape WebBrowser                
             }
             element "Service 1" {
                 background #91F0AE
